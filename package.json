@@ -1,5 +1,5 @@
 {
-  "name": "loopback-swagger-auth",
+  "name": "loopback-swagger",
   "version": "5.0.0",
   "description": "Integration between LoopBack and Swagger API specs",
   "engines": {
